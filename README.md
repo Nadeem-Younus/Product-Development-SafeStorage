@@ -1,11 +1,12 @@
 # At Glance
-I crafted a website (https://safestorage.pk) using WordPress, employing a fitting template for both frontend and backend, while seamlessly embedding a MySQL database.
-1.	At Glance: 
-Developed an intuitive website (https://safestorage.pk) for public, using AWS web-hosting and WordPress platforms, featuring - 
-Sign Up/Login,
-Storage Selection and Storage Calculator,
-Pricing,
-Promotions,
-Security – SSL encryption and recaptcha-v3,
-Contact Forms – connected with 3rd party webmail server,
-Webmail – Configured mail distribution.
+Pioneered a startup, SafeStorage, catering to residential, small business and commercial customers.
+
+Defined customer and business values, roadmap, targeted markets and research, scalability.
+
+Generated multiple product lines for the business.
+
+Defined pricing strategy from per product and multiple-products perspectives.
+
+Employed multiple marketing strategies for business growth and market reach out.
+
+Developed a website using multiple technologies and platforms.
